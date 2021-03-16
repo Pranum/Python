@@ -19,7 +19,7 @@ if __name__ == '__main__':
         speak(article['title'])
         print(article['title'])
         speak("moving on to the next news")
-    speak("Thankjs for Listening...")
+    speak("Thanks for Listening...")
 
 
 
