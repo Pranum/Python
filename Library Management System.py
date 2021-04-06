@@ -5,10 +5,6 @@
 # Return book
 
 
-
-
-
-
 class Library:
     def __init__(self,list, name):
         self.booklist =list
