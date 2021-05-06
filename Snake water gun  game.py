@@ -67,8 +67,6 @@ elif user_point>bot_point:
 else:
     print("bot wins")
 
-# else:
-#     print("draw")
 
 print(f"user point is{user_point} and bot point is{bot_point}")
 
